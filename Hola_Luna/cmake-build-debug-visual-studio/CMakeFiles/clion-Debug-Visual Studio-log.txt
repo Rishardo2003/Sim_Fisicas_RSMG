@@ -1,0 +1,4 @@
+C:\Users\ric13\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/ric13/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe "-DCMAKE_TOOLCHAIN_FILE=C:\Users\ric13\.vcpkg-clion\vcpkg (1)\scripts\buildsystems\vcpkg.cmake" -G Ninja -S C:\Users\ric13\Desktop\Sim_Fisicas_RSMG\Hola_Luna -B C:\Users\ric13\Desktop\Sim_Fisicas_RSMG\Hola_Luna\cmake-build-debug-visual-studio
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/ric13/Desktop/Sim_Fisicas_RSMG/Hola_Luna/cmake-build-debug-visual-studio
