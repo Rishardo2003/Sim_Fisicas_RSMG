@@ -1,0 +1,3 @@
+C:/Users/ric13/Desktop/Sim_Fisicas_RSMG/Hello World/cmake-build-debug-visual-studio/CMakeFiles/Hello_World.dir
+C:/Users/ric13/Desktop/Sim_Fisicas_RSMG/Hello World/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/ric13/Desktop/Sim_Fisicas_RSMG/Hello World/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
