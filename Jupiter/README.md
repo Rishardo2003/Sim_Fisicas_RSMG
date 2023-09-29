@@ -1,0 +1,3 @@
+## Explicación Física
+El mismo ejercicio que el anterior solo que cambiando unos factores.
+En este caso tomamos en cuenta la aceleración gravitacional de Júpiter que es $24.79\frac{m}{s^2}$, y la altura entre el cuadrado y la base disminuye a $24m$, la fricción aumenta a $0.9$ y el tiempo de simulación se cambia a 1 segundo, al ser una aceleración gravitacional mucho más alta que la de la luna y mantener la densidad del cuadrado se puede decir que el cuadrado tendrá una velocidad mucho mayor, pero al tener una fricción más alta puede frenar un poco la velocidad del cuadrado al caer
