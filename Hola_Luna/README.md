@@ -1,0 +1,4 @@
+## Explicación Física
+Es muy similar al ejercicio anterior, con la diferencia de cambiar la simulación a la luna y con ligeros cambios
+En este caso contamos con una gravedad de $1.62\frac{m}{s^2}$, la altura es la misma al anterior $(29m)$, el cuadrado sigue con las mismas dimensiones al igual que la base.
+En este caso las características del cuadrado cambian un poco, su densidad aumenta a $60.55\frac{kg}{m^3}$ y su fricción ahora es de $0$, en este caso al trabajar con una fuerza gravitatoria más débil podemos deducir que la fuerza que se ejerce sobre el cuadrado es mucho menor, por lo que caerá más lento, pero también en esta simulación aumenta su densidad, por lo que se puede decir que se compensa la poca fuerza gravitacional con el aumento de densidad en el cuerpo
