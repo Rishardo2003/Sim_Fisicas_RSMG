@@ -1,0 +1,3 @@
+C:/Users/ric13/Desktop/Sim_Fisicas_RSMG/JointsSFML/cmake-build-debug/CMakeFiles/JointsSFML.dir
+C:/Users/ric13/Desktop/Sim_Fisicas_RSMG/JointsSFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ric13/Desktop/Sim_Fisicas_RSMG/JointsSFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
