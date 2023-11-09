@@ -1,0 +1,13 @@
+# ninja log v5
+1	1027	7212024167925745	CMakeFiles/Rube_Goldberg.dir/main.cpp.obj	9b3e0dd2f5784359
+2	1726	7212028734863487	build.ninja	a59089268a2691b
+1027	2499	7212024170125750	Rube_Goldberg.exe	b9f72e93d33bff60
+2	1643	7212028734863487	build.ninja	a59089268a2691b
+1	800	7212028743205137	CMakeFiles/Rube_Goldberg.dir/main.cpp.obj	9b3e0dd2f5784359
+800	2255	7212028745614936	Rube_Goldberg.exe	b9f72e93d33bff60
+1	1045	7212054165607351	CMakeFiles/Rube_Goldberg.dir/main.cpp.obj	9b3e0dd2f5784359
+1046	2612	7212054168518747	Rube_Goldberg.exe	b9f72e93d33bff60
+1	980	7212073111503874	CMakeFiles/Rube_Goldberg.dir/main.cpp.obj	9b3e0dd2f5784359
+981	2353	7212073113616602	Rube_Goldberg.exe	b9f72e93d33bff60
+1	970	7212085671851921	CMakeFiles/Rube_Goldberg.dir/main.cpp.obj	9b3e0dd2f5784359
+971	2313	7212085673895713	Rube_Goldberg.exe	b9f72e93d33bff60
